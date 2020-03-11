@@ -152,6 +152,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 376523,,,,amex,,credit,,BR,BRADESCO,,www.americanexpress.com,553421026266,
 376525,376526,,,amex,,credit,,BR,AMERICAN EXPRESS,,www.americanexpress.com,553421026266,
 376528,376529,,,amex,,credit,,BR,AMERICAN EXPRESS,,www.americanexpress.com,553421026266,
+375516,,,,amex,,credit,,IL,AMERICAN EXPRESS,,www.leumi.com,,
 376601,,,,amex,,credit,,BR,BRADESCO,,www.americanexpress.com,,
 376618,,,,amex,,credit,,BR,HSBC,,www.americanexpress.com,554133076099,
 376623,,,,amex,,credit,,BR,BRADESCO,,www.americanexpress.com,,
